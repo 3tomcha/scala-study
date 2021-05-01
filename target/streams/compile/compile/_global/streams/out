@@ -1,6 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/kobayashitomoya/workspace/scala-study/Factorization.scala:18:16: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
-[0m[[0m[31merror[0m] [0m[0m required: Map[Int,Int][0m
-[0m[[0m[31merror[0m] [0m[0m        println(facotrizationRec(target, 2, Map()))[0m
-[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kobayashitomoya/workspace/scala-study/PrintFactorization.scala:2:31: wrong number of type arguments for Map, should be 2[0m
+[0m[[0m[31merror[0m] [0m[0m    def printFactorization(): Map[Int, Int, Int, Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
